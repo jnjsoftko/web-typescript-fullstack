@@ -1,3 +1,9 @@
+## references
+
+### [소스코드](https://github.com/wirekang/class101-1)
+
+### [타입스크립트 핸드북(번역본)](https://typescript-kr.github.io/pages/tutorials/ts-for-js-programmers.html)
+
 ## install
 
 ```sh
@@ -29,3 +35,13 @@ http://localhost:5173/
 ### 파일 수정
 
 - App.tsx
+
+## react-router-dom
+
+```sh
+npm install react-router-dom@6
+```
+
+## VS Code extension 설치
+
+### VS Code ES7+ React/Redux/React-Native/JS snippets
